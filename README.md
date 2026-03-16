@@ -1,6 +1,6 @@
 # Supply Chain Analytics Dashboard
 
-![Dashboard Demo](dashboard_gif.gif)
+![Dashboard Demo](images/dashboard_gif.gif)
 
 This project analyzes global supply chain performance using data analytics and interactive dashboards.
 
@@ -75,7 +75,7 @@ The dataset was structured using a **star schema** to support flexible analytics
 
 This modeling approach improves query performance and simplifies analysis across multiple business dimensions.
 
-![Data Model](star_schema.jpg)
+![Data Model](images/star_schema.jpg)
 
 ---
 
@@ -110,7 +110,7 @@ The Power BI report is organized into four analytical dashboards.
 
 Provides a high-level summary of revenue, orders, profitability, and delivery performance.
 
-![Executive Dashboard](executive_supply_chain_overview.jpg)
+![Executive Dashboard](images/executive_supply_chain_overview.jpg)
 
 ---
 
@@ -118,7 +118,7 @@ Provides a high-level summary of revenue, orders, profitability, and delivery pe
 
 Analyzes shipping efficiency, delay distribution, and operational performance across shipping modes and markets.
 
-![Logistics Dashboard](logistics_performance.jpg)
+![Logistics Dashboard](images/logistics_performance.jpg)
 
 ---
 
@@ -126,7 +126,7 @@ Analyzes shipping efficiency, delay distribution, and operational performance ac
 
 Evaluates revenue and profitability across product categories and individual products.
 
-![Product Dashboard](product_performance.jpg)
+![Product Dashboard](images/product_performance.jpg)
 
 ---
 
@@ -134,7 +134,7 @@ Evaluates revenue and profitability across product categories and individual pro
 
 Explores customer purchasing patterns and revenue distribution across markets and segments.
 
-![Customer Insights](customer_market_insights.jpg)
+![Customer Insights](images/customer_market_insights.jpg)
 
 ---
 
