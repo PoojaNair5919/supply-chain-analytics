@@ -161,10 +161,10 @@ Some key observations from the analysis include:
 ## Related Links
 
 ### Medium Article  
-(Add Medium article link here)
+(https://medium.com/@poojanair5919/what-180-000-orders-reveal-about-supply-chain-performance-1a20a1832446)
 
 ### Portfolio Project Page  
-(Add HTML portfolio page link here)
+Coming Soon!
 
 ### GitHub Repository  
 (You are currently here)
