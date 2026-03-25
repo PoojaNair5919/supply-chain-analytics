@@ -164,7 +164,7 @@ Some key observations from the analysis include:
 (https://medium.com/@poojanair5919/what-180-000-orders-reveal-about-supply-chain-performance-1a20a1832446)
 
 ### Portfolio Project Page  
-Coming Soon!
+(https://poojanair5919.github.io/Portfolio/projects.html)
 
 ### GitHub Repository  
 (You are currently here)
