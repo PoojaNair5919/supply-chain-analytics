@@ -2,6 +2,8 @@
 
 ![Dashboard Demo](images/dashboard_gif.gif)
 
+Analyzed 180K+ supply chain records to identify delivery bottlenecks and uncover that delays are driven by high-volume segments rather than inefficiency.
+
 This project analyzes global supply chain performance using data analytics and interactive dashboards.
 
 The analysis focuses on understanding delivery delays, product performance, logistics efficiency, and customer purchasing behavior across more than **180,000 orders**.
@@ -14,10 +16,11 @@ Supply chain operations involve multiple moving parts, including inventory manag
 
 While exploring this dataset, one operational metric immediately stood out:
 
-**Nearly **57% of orders were delivered later than scheduled**, indicating widespread fulfillment challenges.**
+Nearly **57% of orders were delivered later than scheduled**, indicating widespread fulfillment challenges.
 
 To investigate this further, I built an interactive analytics dashboard that examines financial performance, shipping operations, product demand, and customer behavior.
 
+The analysis ultimately identifies where operational improvements will have the highest impact on reducing delivery delays.
 ---
 
 ## Dataset
@@ -79,7 +82,7 @@ This modeling approach improves query performance and simplifies analysis across
 
 ---
 
-## Key Metrics
+## Key Metrics Tracked
 
 The dashboard tracks several business and operational KPIs.
 
@@ -145,10 +148,10 @@ A focused analysis was conducted to identify where delivery delays have the high
 While initial observations suggested inefficiencies in premium shipping modes, a deeper analysis revealed a more important pattern:
 
 - High delay impact is driven by **high-volume segments**, not necessarily the most inefficient ones  
-- **Standard Class shipments** contribute the largest share of delayed orders  
+- **Standard Class shipments contribute** the largest share of delayed orders due to their high volume.
 - The highest-impact segments are concentrated in **Europe and Asia markets**
 
-To prioritize operational improvements, a **Top 5 Bottlenecks by Delayed Orders** view was introduced.
+To enable prioritization of operational improvements, a **Top 5 Bottlenecks by Delayed Orders** view was introduced.
 
 ![Bottleneck Analysis](images/bottleneck_analysis.jpg)
 
@@ -159,6 +162,11 @@ To prioritize operational improvements, a **Top 5 Bottlenecks by Delayed Orders*
 Although **First Class shipments show higher relative delays (Over Index)**, they contribute less to total delayed orders due to lower volume.
 
 In contrast, **Standard Class shipments, despite being relatively efficient, drive the majority of delays due to scale**.
+
+
+A small number of high-volume segments (primarily Standard Class shipments in Europe and Asia) account for a disproportionately large share of delayed orders, highlighting strong concentration of operational impact.
+
+This concentration presents an opportunity, as targeted improvements in these segments can significantly reduce overall delays.
 
 ---
 
