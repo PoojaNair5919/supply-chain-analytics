@@ -14,7 +14,7 @@ Supply chain operations involve multiple moving parts, including inventory manag
 
 While exploring this dataset, one operational metric immediately stood out:
 
-**Nearly 35% of orders were delivered later than scheduled.**
+**Nearly **57% of orders were delivered later than scheduled**, indicating widespread fulfillment challenges.**
 
 To investigate this further, I built an interactive analytics dashboard that examines financial performance, shipping operations, product demand, and customer behavior.
 
