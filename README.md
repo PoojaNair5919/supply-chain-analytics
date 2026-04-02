@@ -138,14 +138,39 @@ Explores customer purchasing patterns and revenue distribution across markets an
 
 ---
 
-## Key Insights
+## Bottleneck Analysis
 
-Some key observations from the analysis include:
+A focused analysis was conducted to identify where delivery delays have the highest business impact.
 
-- Approximately **35% of orders are delivered later than scheduled**
-- Revenue is concentrated in a small number of product categories
-- **Standard Class** accounts for the majority of shipments
-- Customer revenue follows a **long-tail distribution**
+While initial observations suggested inefficiencies in premium shipping modes, a deeper analysis revealed a more important pattern:
+
+- High delay impact is driven by **high-volume segments**, not necessarily the most inefficient ones  
+- **Standard Class shipments** contribute the largest share of delayed orders  
+- The highest-impact segments are concentrated in **Europe and Asia markets**
+
+To prioritize operational improvements, a **Top 5 Bottlenecks by Delayed Orders** view was introduced.
+
+![Bottleneck Analysis](images/bottleneck_analysis.jpg)
+
+---
+
+### Key Insight
+
+Although **First Class shipments show higher relative delays (Over Index)**, they contribute less to total delayed orders due to lower volume.
+
+In contrast, **Standard Class shipments, despite being relatively efficient, drive the majority of delays due to scale**.
+
+---
+
+### Business Implication
+
+Operational improvements should focus on high-volume segments such as:
+
+- Standard Class – Europe  
+- Standard Class – Pacific Asia  
+- Standard Class – LATAM  
+
+Even small efficiency gains in these areas can significantly reduce total delays and improve overall supply chain performance.
 
 ---
 
